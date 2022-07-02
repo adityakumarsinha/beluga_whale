@@ -9,3 +9,8 @@ Execute Training NoteBook
 
 ## Inference
 Execute "python eff5_main.py" then "python main.py"
+
+
+## Final Submission
+Final submission is ensemble of following models
+### tf_efficientnet_b5_ns,tf_efficientnet_b4_ns,tf_efficientnet_b6_ns, eca_nfnet_l2
